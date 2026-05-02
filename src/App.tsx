@@ -5,10 +5,8 @@ import {
   UtensilsCrossed,
   User,
   X,
-  Bell,
   Camera,
   Upload,
-  Link,
 } from "lucide-react";
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
